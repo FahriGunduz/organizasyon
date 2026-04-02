@@ -1,10 +1,25 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+
+@theme {
+  --color-primary-light: #2a2a4a;
+  --color-primary-DEFAULT: #1a1a2e;
+  --color-primary-dark: #0f0f1c;
+
+  --color-accent-light: #e8c96b;
+  --color-accent-DEFAULT: #d4af37;
+  --color-accent-dark: #b3901b;
+
+  --color-surface-light: #ffffff;
+  --color-surface-DEFAULT: #f8fafc;
+  --color-surface-dark: #e2e8f0;
+}
 
 @layer base {
   body {
-    @apply bg-surface text-primary-DEFAULT antialiased;
+    background-color: var(--color-surface-DEFAULT);
+    color: var(--color-primary-DEFAULT);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
   }
 }
 
