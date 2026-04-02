@@ -1,0 +1,1366 @@
+Total pages: 38
+
+=== SAYFA 1 ===
+i 
+ 
+T.C. 
+BALIKESİR ÜNİVERSİTESİ  
+MÜHENDİSLİK FAKÜLTESİ  
+ENDÜSTRİ MÜHENDİSLİĞİ 
+ 
+ 
+ 
+ 
+ 
+SİSTEM ANALİZİ DERSİ PROJE RAPORU  
+ 
+ORGANİZASYON YÖNETİM SİSTEMİNİN ANALİZİ 
+VE İYİLEŞTİRİLMESİ 
+ 
+NÖ-9 
+202213704024 - Zehra Nur Kaya 
+202213704060 - Utku Berat Gödekmerdan 
+202213704027 - Berfin Kökel 
+202213704049 - Zeynep Akbulut 
+202213704008 - Zeynep Yaman 
+ 
+3/25/2026 
+ 
+BALIKESİR 
+ 
+
+=== SAYFA 2 ===
+ii 
+ 
+ 
+ORGANİZASYON YÖNETİM SİSTEMİNİN ANALİZİ 
+VE İYİLEŞTİRİLMESİ 
+ 
+ 
+ 
+ 
+ENDÜSTRİ MÜHENDİSLİĞİ BÖLÜMÜ 
+SİSTEM ANALİZİ DERSİ PROJE RAPORU  
+ 
+ 
+202213704024 - Zehra Nur Kaya 
+202213704060 - Utku Berat Gödekmerdan 
+202213704027 - Berfin Kökel 
+202213704049 - Zeynep Akbulut 
+202213704008 - Zeynep Yaman 
+ 
+ 
+ 
+Dr. Ögr. Üyesi Dr. Öğretim Üyesi Hilal Atıcı Ulusu 
+ 
+ 
+ 
+3/25/2026 
+BALIKESİR 
+ 
+
+=== SAYFA 3 ===
+iii 
+ 
+T.C. 
+BALIKESİR ÜNİVERSİTESİ 
+MÜHENDİSLİK FAKÜLTESİ 
+ENDÜSTRİ MÜHENDİSLİĞİ BÖLÜMÜ 
+ 
+SİSTEM ANALİZİ DERSİ İÇİN ETİK VE DÜRÜST 
+DAVRANMA TAAHHÜTÜ 
+ 
+Almış olduğum Sistem Analizi dersi için belirtilen kurallara uyacağımı taahhüt eder, 
+bu kurallara uymak konusunda vermiş olduğum taahhüte aykırı bir durum karşısında Sistem 
+Analizi dersine ait notumun (başarılı olup, notum ilan edilmiş dahi olsa) iptaline ve ilgili 
+yönetmelik ile mevzuatın tarafıma yönelik işletilmesine herhangi bir şekilde engel 
+olmayacağımı şimdiden taahhüt ederim. 
+ 
+ 
+Öğrencinin: 
+Adı/Soyadı 
+ 
+ 
+ 
+: 
+202213704024 - Zehra Nur Kaya 
+202213704060 - Utku Berat Gödekmerdan 
+202213704027 - Berfin Kökel 
+202213704049 - Zeynep Akbulut 
+202213704008 - Zeynep Yaman 
+ 
+Numarası 
+ 
+ 
+ 
+: 
+Sistem Analizi  
+Dersi Çalışmasının Başlığı 
+ 
+: Organizasyon Yönetim Sisteminin Analizi ve 
+İyileştirilmesi 
+ 
+ 
+ 
+ 
+ 
+İmza   
+3/25/2026 
+ 
+
+=== SAYFA 4 ===
+iv 
+ 
+ 
+Etik ve Dürüst Davranma Kuralları 
+1. Hazırlanan çalışma daha önce kısmen veya tamamen başka bir yerde sunulmuş bir proje 
+olmamalıdır. 
+2. Çalışmada sunulan bulgular, analizler ve yorumlar öğrencinin kendi akademik 
+çalışmasının ürünü olmalıdır. 
+3. Çalışmada yararlanılan tüm kaynaklar raporun Kaynakça bölümünde eksiksiz ve doğru 
+biçimde gösterilmelidir. 
+4. Bir kaynaktan dolaylı olarak edinilen bilgiler, yalnızca ilgili özgün kaynak referans 
+gösterilerek kullanılabilir; ikinci el kaynaklar doğrudan kaynakça olarak gösterilemez. 
+5. Rapor karton kapakla ciltlenmiş olarak teslim edilmelidir. Ayrıca USB ortamında; 
+raporun dijital kopyası, intihal raporu (varsa), analiz dosyaları, ekler ve kaynakça 
+kapsamında belirtilen materyaller eksiksiz olarak bulunmalıdır. 
+6. Çalışmaya katkı sağlayan kişi, kurum veya kuruluşlar raporun Teşekkür bölümünde 
+belirtilmelidir. 
+7. Raporun herhangi bir bölümünün yazımı veya hazırlanmasında öğrenci dışında katkı 
+varsa bu durum Teşekkür bölümünde açıkça ifade edilmelidir. 
+8. Ortak çalışmalarda tüm öğrencilerin sürece aktif katılımı esastır. Katkı dağılımı farklı 
+ise bu durum rapora eklenen bir belge ile açıklanmalıdır. 
+9. Sunum aşamasında çalışma bütünlüğü sağlanmış olmalı eksik veya tamamlanmamış 
+bölümler bulunmamalıdır. 
+10. Uygulamalı çalışmalarda kullanılan veriler gerçek gözlem ve bilimsel yöntemlere 
+dayanmalıdır. Veri saptırılması, uydurma sonuç sunulması veya bilimsel yöntem dışı 
+yorum yapılması kabul edilemez. 
+11. Çalışmanın tamamı veya bir bölümü, danışman ve ilgili kurumun izni olmadan 
+yayımlanamaz. 
+12. Raporlar bölüm tarafından ilan edilen teslim tarihlerinden sonra kabul edilmez. 
+13. Yapay Zeka Kullanımı Beyanı 
+Bu çalışma kapsamında yapay zeka tabanlı araçların kullanımı aşağıda belirtilmiştir. Yapay 
+zeka araçlarından yararlanılmış olsa dahi, çalışmanın bilimsel ve akademik sorumluluğu 
+öğrenciye aittir.  
+Destek Süreçlerinde Üretken Yapay Zekânın (ÜYZ) Sorumlu ve Güvenilir Kullanımı 
+Rehberi 
+☐ Bu çalışmada yapay zeka aracı kullanılmamıştır. 
+☒ Bu çalışmada aşağıda belirtilen yapay zeka araçları kullanılmıştır: 
+• Kullanılan Yapay Zeka Aracı: Chat GPT, Gemini 
+• Kullanım Amacı ve Kapsamı: Metinlerin dil bilgisi, yazım ve noktalama, anlatım 
+açısından hatalar kontrol edilerek daha doğru ve anlaşılır hale getirilmesi amacıyla 
+yararlanılmıştır. Çalışmanın içeriği, değerlendirmeleri ve sonuçları tarafımızca 
+oluşturulmuştur. 
+• Üretilen İçerikler Üzerinde Yapılan Müdahale: Oluşan düzenleme sonrasında metinler 
+tarafımızca incelenmiş, gerekli düzeltmeler yapılarak çalışmaya uygun hale 
+getirilmiştir. 
+
+=== SAYFA 5 ===
+v 
+ 
+ 
+Beyan ettiğim bilgilerin doğruluğunu kabul ederim. Aksi durumda akademik dürüstlük 
+kurallarını ihlal etmiş sayılacağımı biliyorum. 
+ 
+Ad-Soyad: 
+ 
+202213704024 - Zehra Nur Kaya 
+202213704060 - Utku Berat Gödekmerdan 
+202213704027 - Berfin Kökel 
+202213704049 - Zeynep Akbulut 
+202213704008 - Zeynep Yaman 
+ 
+ 
+ 
+Tarih: 25/03//2026 
+ 
+ 
+İmza: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== SAYFA 6 ===
+vi 
+ 
+TEŞEKKÜR 
+ 
+Öncelikle, bu çalışmanın hazırlanması sürecinde bilgi birikimi ve tecrübesiyle bize yol 
+gösteren, değerli fikirleri ve yapıcı eleştirileriyle çalışmamıza yön veren değerli ders 
+hocamız Dr. Öğretim Üyesi Hilal Atıcı Ulusu’ya en içten teşekkürlerimizi sunarız. 
+ 
+Ayrıca, eğitim hayatımız boyunca bizlere ilham veren, bilgi ve tecrübeleriyle ufkumuzu 
+genişleten tüm Endüstri Mühendisliği Bölümü öğretim üyelerimize teşekkür ederiz. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== SAYFA 7 ===
+vii 
+ 
+ 
+İÇİNDEKİLER 
+ 
+Sayfa 
+SİSTEM ANALİZİ DERSİ PROJE RAPORU ................................................................. i 
+SİSTEM ANALİZİ DERSİ PROJE RAPORU ................................................................ ii 
+SİSTEM ANALİZİ DERSİ İÇİN ETİK VE DÜRÜST DAVRANMA TAAHHÜTÜ .. iii 
+TEŞEKKÜR ........................................................................................................................ vi 
+İÇİNDEKİLER .................................................................................................................. vii 
+BÖLÜM 1 ............................................................................................................................. 1 
+1.Durumun Tanımı ............................................................................................................. 1 
+2.Durumun Nedenleri ........................................................................................................ 3 
+3. Sistemin Tanımı ve Amacı ............................................................................................ 3 
+4.Sistemin Hedefleri .......................................................................................................... 5 
+5.Sistemin Çevresi ............................................................................................................. 6 
+6. Sistemin Çevresinin Hedefleri ....................................................................................... 7 
+7.Sistemin Hedefleri .......................................................................................................... 8 
+BÖLÜM 2 ............................................................................................................................. 9 
+1.Mevcut Durum Kaba İlişki Diyagramı ........................................................................... 9 
+2. Mevcut Durum 1.Seviye Veri Akış Diyagram ............................................................ 10 
+3.Mevcut Durum 2.Seviye Veri Akış Diyagramları ........................................................ 11 
+4.Geliştirilmiş Durum ...................................................................................................... 16 
+5.Geliştirilmiş Durum Kaba İlişki Diyagramı ................................................................. 17 
+6.Geliştirilmiş Durum 1. Seviye Veri Akış Diyagramı ................................................... 18 
+7.Geliştirilmiş Durum 2. Seviye Veri Akış Diyagramları ............................................... 19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== SAYFA 8 ===
+viii 
+ 
+ 
+ 
+ŞEKİL LİSTESİ 
+Şekil 1: Swot analizi .............................................................................................................. 1 
+Şekil 2: Balık kılçığı diyagramı ............................................................................................. 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== SAYFA 9 ===
+ix 
+ 
+ 
+
+=== SAYFA 10 ===
+1 
+ 
+BÖLÜM 1 
+1.Durumun Tanımı 
+Operasyonel Takip ve Fiziksel Veri Yönetimi Sorunları 
+“La Vita Bella Event İzmir” ve “Umut Aybar Organizasyon”, İzmir ve çevresinde özellikle 
+yüksek profilli düğün organizasyonları gerçekleştiren, sektörde güçlü iş birliği içinde olan 
+iki büyük firmadır. Bu ortaklık kapsamında, her iki firmanın envanteri ve operasyonel gücü 
+birleştirilerek binlerce davetlinin katıldığı, detaylı dekorasyon ve teknik kurulum gerektiren  
+organizasyonlar yönetilmektedir.Ancak, bu ölçekteki operasyonların yönetiminde verilerin 
+dijital bir platform yerine fiziksel yöntemlerle (kağıt listeler, el yazısı notlar, basılı dosya 
+takibi) tutulması, her iki firma için de ciddi bir risk faktörü oluşturmaktadır. İş takibinin 
+tamamen fiziksel materyaller ve sözlü iletişim üzerinden yürütülmesi, özellikle hazırlık ve 
+kurulum aşamalarında eşya unutma veya yanlış ekipman sevkiyatı gibi kronikleşen 
+aksaklıklara yol açmaktadır. 
+Düğün organizasyonları, doğası gereği hata kabul etmeyen ve telafisi olmayan süreçlerdir. 
+Kâğıt üzerindeki kontrol listelerinin güncelliğini yitirmesi veya sahadaki karmaşada bu 
+listelere erişimin kopması sonucu; gelin yolu dekorlarından özel tasarım şamdanlara, ses 
+sistemi parçalarından teknik ara kablolara kadar pek çok kritik parça depoda unutulabilmekte 
+ya da yanlış mekâna gönderilebilmektedir. 
+ Bu çalışmada kullanılan çözüm yöntemlerinden SWOT Analizi ve Balık Kılçığı Diyagramı 
+aşağıda yer almaktadır. 
+ 
+ 
+ 
+Şekil 1: Swot analizi 
+
+=== SAYFA 11 ===
+2 
+ 
+ 
+ 
+ 
+ 
+Bu aksaklıkların başlıca sonuçları şunlardır: 
+Düğün gibi bir kişinin hayatındaki en özel günde, söz verilen bir görsel detay veya teknik 
+unsurun unutulması, telafisi imkânsız bir hayal kırıklığına ve doğrudan güven kaybına yol 
+açmaktadır. Hem La Vita Bella Event İzmir hem de Umut Aybar Organizasyon, prestijli 
+markalardır. Ancak sahadaki bu küçük ama kritik operasyonel hatalar, profesyonellik 
+algısını zedeleyerek referansla büyüyen bu sektörde marka imajına zarar vermektedir. 
+Unutulan bir parçayı organizasyona yetiştirmek için son dakikada yapılan acil araç 
+yönlendirmeleri, personel mesaileri ve lojistik kaos, firmanın kârlılığını düşürmektedir. 
+Süreçler dijital olarak izlenmediği için düğün bitiminde toplanan malzemelerin fiziksel 
+takibi zorlaşmakta; bu durum demirbaşların etkinlik mekanlarında unutulmasına veya 
+kaybolmasına neden olmaktadır. 
+Mevcut ortaklığın verimliliğini artırmak ve hatasız bir hizmet sunabilmek için, her iki 
+firmanın da erişebileceği, kağıt listelerin yerini alan eş zamanlı ve mobil tabanlı bir 
+envanter/görev takip sistemi kaçınılmaz bir hale gelmiştir. 
+ 
+ 
+ 
+ 
+Şekil 2: Balık kılçığı diyagramı 
+
+=== SAYFA 12 ===
+3 
+ 
+2.Durumun Nedenleri 
+1.Envanter ve Hazırlık Süreciyle İlgili Nedenler 
+Her düğün ve organizasyonun kişiye özel tasarımı, sabit bir üretim bandı kurulmasını 
+engeller. Bu da her etkinlik için sıfırdan ve manuel bir hazırlık listesi gerektirir. Düğün 
+kurulumlarının genellikle çok dar bir zaman penceresinde (birkaç saat içinde) tamamlanma 
+zorunluluğu, son kontrollerin aceleye getirilmesine neden olur. 
+2.Operasyonel Takip ve Lojistik Nedenleri 
+Ekipmanların araca yüklenmesi ve mekanda indirilmesi sırasında kağıt üzerindeki listelerin 
+manuel kontrol edilmesi,eksiklerin fark edilmemesine yol açar.Depo personeli ile saha 
+personeli arasındaki bilgi kopukluğu nedeniyle, benzer görünen ancak teknik/görsel olarak 
+farklı olan yanlış parçaların (yanlış renk örtü, farklı model şamdan vb.) araca yüklenmesi. 
+Etkinlik bitiminde (gece geç saatlerde) personelin yorgunluğu ve mekânın karanlık olması 
+gibi nedenlerle fiziksel sayım yapılamaması, eşyaların düğün alanında unutulmasına veya 
+kaybolmasına neden olur. 
+3. Veri ve İletişim Yönetimi ile İlgili Nedenler 
+Planlamanın dijital bir bulut sistemi yerine kâğıt dosyalarda, not kağıtlarında veya kişisel 
+mesajlaşma uygulamalarında dağınık halde bulunması, müşteriden gelen anlık revizelerin 
+(masa sayısı artışı, renk değişimi vb.) kâğıt üzerindeki listelere her iki firma için de eş 
+zamanlı ve hatasız yansıtılamaması, talimatların dijital bir iş emri yerine sözlü verilmesi. 
+4. İnsan Faktörü ve Koordinasyon Nedenleri 
+Organizasyon sektörünün yoğun çalışma temposu, fiziksel/manuel kontrol yöntemlerinde 
+hata payını geometrik olarak artırır. Geçici ekiplerin veya yeni personelin, kâğıt üzerindeki 
+teknik terimleri ve envanter kodlarını doğru yorumlayamaması. 
+5. Dış Etmenler 
+Etkinlik mekanlarının (oteller, kır bahçeleri) uzaklığı veya yükleme alanlarındaki kısıtlar, 
+unutulan bir parçanın geri getirilmesini operasyonel ve mali açıdan imkânsız kılması.İzmir 
+içi yoğun trafik veya mekânın bir önceki organizasyondan geç teslim alınması gibi 
+faktörlerin, ekibi acele ettirerek kontrol listelerini atlamaya zorlaması. 
+ 
+3. Sistemin Tanımı ve Amacı 
+Sistem, etkinliğin tüm detaylarının merkezi bir bulut tabanlı yazılıma girilmesiyle başlar. La 
+Vita Bella Event İzmir ve Umut Aybar Organizasyon ekipleri, ortak panel üzerinden dijital 
+çeki listesine erişirler ve tüm süreçleri buradan yürütürler. Bu sistem sayesinde, kâğıt 
+listelerin yarattığı karmaşa son bulurken, operasyonun her adımı dijital olarak onaylanır.  
+Bu sistemin temel amacı, fiziksel veri yönetiminden kaynaklanan operasyonel riskleri (eşya 
+unutma, yanlış sevkiyat vb.) minimize ederek, iki firma arasındaki iş birliğini dijital bir 
+güven zemininde optimize etmektir. 
+Envanter İzlenebilirliğini Sağlamak: Ortak kullanılan ekipman havuzunun hangi depoda 
+veya hangi etkinlikte olduğunu anlık olarak takip ederek, manuel çeki listelerinden 
+kaynaklanan karmaşayı ve demirbaş kayıplarını önlemek. 
+
+=== SAYFA 13 ===
+4 
+ 
+Saha Hatalarını ve "Eşya Unutma" Durumlarını Sıfırlamak: Yükleme ve toplama 
+süreçlerini dijital onay mekanizmasına bağlayarak; kritik bir dekorun veya teknik parçanın 
+depoda ya da etkinlik mekânında unutulmasını sistemsel olarak engellemek. 
+Koordinasyon ve İş Akışı Verimliliğini Optimize Etmek: La Vita Bella ve Umut Aybar 
+ekipleri arasındaki görev dağılımını tek bir dijital platform üzerinden senkronize ederek, 
+sözlü iletişimden kaynaklanan bilgi kirliliğini ve operasyonel aksaklıkları ortadan 
+kaldırmak. 
+ 
+Girdiler  
+• Etkinlik ve Tasarım Planı: Düğün veya organizasyon için belirlenen dekorasyon, 
+teknik ve lojistik ihtiyaç listesi. 
+• Merkezi Envanter Verisi: La Vita Bella ve Umut Aybar firmalarının ortak havuzunda 
+bulunan mevcut ekipman miktarı (şamdan, sandalye, ses sistemi vb.). 
+• Saha Ekibi ve Araç Kapasitesi: Kurulumda görev alacak personel sayısı ve nakliye 
+araçlarının hacimsel sınırları. 
+• Etkinlik Zaman Çizelgesi: Mekâna giriş saati, kurulumun bitiş saati ve toplama 
+zamanı. 
+ 
+ 
+Çıktılar  
+• Onaylanmış Dijital Çeki Listesi: Etkinlik günü depodan çıkması kesinleşen ürünlerin 
+listesi. 
+• Anlık Operasyonel Statü: Ürünlerin "Hazırlandı", "Yüklendi", "Kuruldu" veya 
+"Toplandı" durumlarının takibi. 
+• Kayıp/Eksik ve Hasar Raporu: Etkinlik sonunda depoya dönmeyen veya mekânda 
+unutulan ürünlerin anlık tespiti. 
+• Operasyonel Performans Analizi: Kurulum süresi ve hata oranlarını içeren verimlilik 
+raporları. 
+ 
+Alt Sistemler  
+• Planlama ve Rezervasyon Modülü: Yeni etkinlik taleplerini alır, envanter 
+çakışmalarını kontrol eder ve ekipman rezerve eder. 
+• Dijital Depo ve Hazırlık Modülü: Saha ekiplerinin telefonlarına yükleme listelerini 
+iletir ve hazırlık onaylarını toplar. 
+• Lojistik ve Sevkiyat Takip Modülü: Araç yükleme sürecini denetler ve "unutulan 
+eşya" riskine karşı uyarı verir. 
+• Saha Toplama Kontrol Modülü: Etkinlik bitiminde tüm parçaların mekandan 
+eksiksiz alındığını teyit eder. 
+ 
+Kısıtlar  
+• Mekân Zaman Sınırları: Otel veya kır bahçesi gibi mekanların kurulum ve boşaltma 
+için verdiği dar zaman aralıkları. 
+• Envanterin Eşsizliği: Bir dekorun aynı gün iki farklı düğünde kullanılamaması (stok 
+sınırı). 
+• Lojistik Mesafe: İzmir içindeki trafik veya uzak mekanların, unutulan bir parçanın 
+geri getirilmesini imkânsız kılması. 
+
+=== SAYFA 14 ===
+5 
+ 
+• Fiziksel Veri Direnci: Personelin alışılagelmiş kâğıt kalem yönteminden dijital 
+sisteme geçişteki adaptasyon süreci. 
+ 
+Varsayımlar  
+• Saha personeli, dijital onay adımlarını (yüklendi/kuruldu) gerçek zamanlı olarak 
+uygular. 
+• Merkezi envanter sistemindeki veriler (kırılan veya yeni alınan ürünler) güncel 
+tutulur. 
+• Saha operasyonu sırasında internet bağlantısı (bulut senkronizasyonu için) süreklidir. 
+ 
+Değişkenler  
+• Etkinlik Bazlı Talep Miktarı: Her düğün veya organizasyonun konseptine göre 
+değişen ekipman sayıları (örneğin; bir hafta sonu 500 sandalye gerekirken, diğer 
+hafta 200 sandalye gerekmesi). 
+• Anlık Envanter Müsaitliği: Ürünlerin o an depoda mı, yolda mı yoksa başka bir 
+etkinlikte mi olduğu durumu (tüketim ve toplama hızına bağlı olarak sürekli değişir). 
+• Saha Personeli ve Araç Müsaitliği: Operasyon günü çalışan personelin sayısı ve 
+lojistik araçların o anki doluluk/müsaitlik durumu. 
+• Hava ve Trafik Koşulları: İzmir içi (Kordon, Çeşme, Urla vb.) ulaşım sürelerini ve 
+kurulum hızını etkileyen dışsal değişkenler. 
+ 
+Parametreler  
+• Toplam Envanter Kapasitesi: Her iki firmanın sahip olduğu toplam demirbaş sayısı 
+(stok limitleri). 
+• Araç Taşıma Kapasiteleri: Lojistik araçların metreküp bazında maksimum taşıma 
+hacmi. 
+• Standart Kurulum/Söküm Süreleri: Bir şamdanın veya ses sisteminin kurulması için 
+gereken "ortalama insan-saat" değeri. 
+• Mekan Giriş/Çıkış Saatleri: Düğün salonlarının veya otellerin kurulum için izin 
+verdiği sabit zaman pencereleri. 
+ 
+ 
+4.Sistemin Hedefleri 
+Bu sistemin temel hedefleri, operasyonel süreçleri dijitalleştirerek eşya unutma riskini 
+ortadan kaldırmak, iki firma arasındaki koordinasyonu güçlendirmek ve müşteriye anlık 
+bilgi akışı sağlayarak marka prestijini en üst seviyeye taşımaktır. 
+4.1 Envanter ve Hazırlık Süreci Hedefleri 
+• Ortak havuzdaki ürünlerin hangi etkinlikte olduğunu anlık izleyerek, aynı ekipmanın 
+iki farklı düğüne rezerve edilmesini engellemek. 
+• Dijital listeler üzerinden depo çıkışlarını yöneterek; renk, model veya miktar bazlı 
+hazırlık hatalarının önüne geçmek. 
+• Etkinlik sonrasında depoya dönen ürünlerin sayımını anlık yaparak, envanter 
+kayıplarını hızlıca tespit etmek. 
+ 
+ 
+ 
+
+=== SAYFA 15 ===
+6 
+ 
+4.2 Lojistik ve Saha Operasyonu Hedefleri 
+• Yükleme ve söküm (toplama) aşamalarını dijital onay mekanizmasına bağlayarak; 
+depoda veya etkinlik mekânında parça unutulma oranını %0'a indirmek. 
+• Unutulan bir eşyayı yetiştirmek için yapılan acil sevkiyatları (ek araç, kurye vb.) 
+ortadan kaldırarak operasyonel giderleri düşürmek. 
+• Kurulum ve toplama süreçlerinin hangi aşamada olduğunu anlık takip ederek, 
+mekanların verdiği dar zaman pencerelerine tam uyum sağlamak. 
+ 
+4.3 Müşteri Deneyimi ve Marka İmajı Hedefleri 
+• Eksik veya hatalı kurulum riskini sistemsel olarak engelleyerek, müşterinin en özel 
+gününde kusursuz hizmet sunmak. 
+•  Dijital takip ve profesyonel bilgilendirme süreçleri sayesinde İzmir organizasyon 
+pazarındaki rekabet gücünü ve tavsiye edilebilirliği artırmak. 
+ 
+4.4. İş Birliği ve Dijital Dönüşüm Hedefleri 
+• La Vita Bella ve Umut Aybar ekiplerinin aynı güncel veriye erişmesini sağlayarak; 
+kâğıt listelerden ve sözlü iletişimden kaynaklanan karmaşayı bitirmek. 
+• Fiziksel dosya takibi yerine mobil uygulama üzerinden iş akışı yöneterek çevre dostu 
+ve modern bir çalışma modeli benimsemek. 
+• Tamamlanan organizasyonların verimlilik raporlarını analiz ederek, gelecekteki 
+projeler için daha doğru planlama (insan gücü ve süre tahmini) yapmak 
+ 
+ 
+5.Sistemin Çevresi  
+Sistem çevresi, organizasyonun kusursuz ilerlemesini sağlayan ancak doğrudan kontrol 
+edemediğimiz, sistemin sınırları dışındaki aktörlerden oluşur. 
+5.1 Belediyeler ve Yerel Yönetimler (İzmir Büyükşehir ve İlçe Belediyeleri) 
+Sistemdeki Rolü: Etkinliklerin yapılacağı alanlar için gerekli yasal izinleri (gürültü 
+yönetmeliği, etkinlik saatleri, açık alan kullanım izinleri vb.) düzenler. Özellikle İzmir'deki 
+tarihi mekanlar veya kamusal alanlardaki organizasyonlar için denetleyici rol üstlenir.  
+Sistem İçin Önemi: Yasal sınırların dışında kalan bir uygulama, organizasyonun 
+durdurulmasına veya ceza alınmasına neden olabilir. Sistemin zaman çizelgesi parametresi 
+bu kurallara göre kurgulanmalıdır. 
+ 
+ 
+5.2 Mekan İşletmecileri (Otel, Kır Bahçesi ve Salonlar) 
+Sistemdeki Rolü:Organizasyonun fiziksel platformunu sağlarlar. Kurulum ve toplama 
+saatlerini belirleyen ana aktörlerdir. Elektrik, su, mutfak ve lojistik giriş-çıkış alanlarının 
+kullanım kurallarını koyarlar.  
+Sistem İçin Önemi: Mekânın sunduğu kısıtlar (örneğin; yükleme asansörü yok veya sadece 
+09:00-12:00 arası kurulum yapılabilir), sistemin lojistik planlamasını doğrudan etkiler. 
+Sistemin verimliliği, mekânın sunduğu imkanlarla sınırlıdır. 
+ 
+ 
+ 
+
+=== SAYFA 16 ===
+7 
+ 
+5.3 Çiçek Borsası ve Dekoratif Hammadde Tedarikçileri 
+Sistemdeki Rolü: Canlı çiçek, özel tasarım kumaş veya tek kullanımlık dekoratif ürünleri 
+tedarik ederler.  
+Sistem İçin Önemi: Bu tedarikçilerde yaşanacak bir gecikme veya kalite düşüklüğü, sistemin 
+girdi kalitesini bozar. 
+ 
+5.4 Müşteriler (Gelin, Damat ve Kurumsal Şirketler) 
+Sistemdeki Rolü: Talebin kaynağıdırlar. Sistemin tüm değişkenlerini (konsept, miktar, 
+bütçe) başlatan ana tetikleyicidirler. 
+Sistem İçin Önemi: Müşterinin son dakika yaptığı revizeler, sistem içindeki değişkenlerin 
+aniden güncellenmesine neden olur. Müşteri memnuniyeti, sistemin bu değişim talebine 
+verdiği yanıt hızıyla ölçülür. 
+ 
+6. Sistemin Çevresinin Hedefleri 
+Sistem, içinde bulunduğu organizasyon ve hizmet sektörü çevresine bağlı olarak 
+şekillenmektedir. Bu nedenle çevrede yer alan unsurların hedefleri, sistemin işleyişini 
+doğrudan etkilemektedir. 
+Sistemin çevresinde yer alan temel unsurların hedefleri şu şekildedir: 
+• Müşteriler: Uygun fiyatlı, kaliteli ve sorunsuz bir organizasyon hizmeti almak 
+istemektedir. Aynı zamanda süreçlerin hızlı ilerlemesi ve taleplerinin eksiksiz 
+karşılanması müşteri açısından önemli hedeflerdir. 
+• Tedarikçiler: Sunmuş oldukları hizmetleri maksimum kâr ile sürdürülebilir şekilde 
+gerçekleştirmek istemektedir. Aynı zamanda düzenli iş akışı ve zamanında ödeme 
+almak temel hedefler arasındadır. 
+• Devlet kurumları: Vergi düzeninin sağlanması, kayıt dışı işlemlerin önlenmesi ve 
+tüm finansal süreçlerin mevzuata uygun yürütülmesi temel hedeftir. 
+• Muhasebe sistemleri: Finansal işlemlerin doğru, hızlı ve eksiksiz şekilde kayıt 
+altına alınmasını sağlamak amaçlanmaktadır (örneğin Paraşüt gibi sistemler). 
+• Rekabet ortamı: Organizasyon firmaları, daha fazla müşteri kazanmak ve pazar 
+paylarını artırmak amacıyla rekabet etmektedir. Bu durum hizmet kalitesinin 
+artmasını ve fiyatların dengede tutulmasını hedefler. 
+• Pazar ve hizmet sektörü: Hizmetlerin çeşitlenmesi, müşteri beklentilerinin 
+karşılanması ve sektörün sürdürülebilir şekilde büyümesi temel hedefler arasındadır 
+Bu hedefler doğrultusunda sistemin, çevresinin beklentilerine uyum sağlayacak şekilde 
+tasarlanması gerekmektedir. Aksi durumda sistemin sürdürülebilirliği zorlaşacaktır. 
+ 
+ 
+
+=== SAYFA 17 ===
+8 
+ 
+7.Sistemin Hedefleri 
+Bu sistemin temel hedefleri, operasyonel süreçleri dijitalleştirerek eşya unutma riskini 
+ortadan kaldırmak, iki firma arasındaki koordinasyonu güçlendirmek ve müşteriye anlık 
+bilgi akışı sağlayarak marka prestijini en üst seviyeye taşımaktır. 
+7.1 Envanter ve Hazırlık Süreci Hedefleri 
+• Ortak havuzdaki ürünlerin hangi etkinlikte olduğunu anlık izleyerek, aynı ekipmanın 
+iki farklı düğüne rezerve edilmesini engellemek. 
+• Dijital listeler üzerinden depo çıkışlarını yöneterek; renk, model veya miktar bazlı 
+hazırlık hatalarının önüne geçmek. 
+• Etkinlik sonrasında depoya dönen ürünlerin sayımını anlık yaparak, envanter 
+kayıplarını hızlıca tespit etmek. 
+ 
+7.2 Lojistik ve Saha Operasyonu Hedefleri 
+• Yükleme ve söküm (toplama) aşamalarını dijital onay mekanizmasına bağlayarak; 
+depoda veya etkinlik mekânında parça unutulma oranını %0'a indirmek. 
+• Unutulan bir eşyayı yetiştirmek için yapılan acil sevkiyatları (ek araç, kurye vb.) 
+ortadan kaldırarak operasyonel giderleri düşürmek. 
+• Kurulum ve toplama süreçlerinin hangi aşamada olduğunu anlık takip ederek, 
+mekanların verdiği dar zaman pencerelerine tam uyum sağlamak. 
+ 
+7.3 Müşteri Deneyimi ve Marka İmajı Hedefleri 
+• Eksik veya hatalı kurulum riskini sistemsel olarak engelleyerek, müşterinin en özel 
+gününde kusursuz hizmet sunmak. 
+•  Dijital takip ve profesyonel bilgilendirme süreçleri sayesinde İzmir organizasyon 
+pazarındaki rekabet gücünü ve tavsiye edilebilirliği artırmak. 
+ 
+7.4 İş Birliği ve Dijital Dönüşüm Hedefleri 
+• La Vita Bella ve Umut Aybar ekiplerinin aynı güncel veriye erişmesini sağlayarak; 
+kâğıt listelerden ve sözlü iletişimden kaynaklanan karmaşayı bitirmek. 
+• Fiziksel dosya takibi yerine mobil uygulama üzerinden iş akışı yöneterek çevre dostu 
+ve modern bir çalışma modeli benimsemek. 
+• Tamamlanan organizasyonların verimlilik raporlarını analiz ederek, gelecekteki 
+projeler için daha doğru planlama (insan gücü ve süre tahmini) yapmak 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== SAYFA 18 ===
+9 
+ 
+BÖLÜM 2 
+ 
+1.Mevcut Durum Kaba İlişki Diyagramı 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1) organizasyon talebi, müşterinin kimlik adres bilgileri, organizasyon tarihi, 
+ödeme bilgileri 
+2) organizasyon planı, sözleşme bilgileri, ödeme bilgileri, fatura, 
+organizasyon durumu uygunluğu 
+3) hizmet talebi organizasyon detayları, tarih bilgisi, gerekli malzeme  
+4) hizmet uygunluk bilgisi, fiyat bilgisi, teslim ve hazırlık bilgisi 
+5) fatura bilgileri, ödeme kayıtları, tahsilat bilgileri 
+6) ödeme onayı, fatura onayı, finansal kayıt bilgisi 
+7) malzeme talebi, kullanım bilgisi  
+8) stok durumu, malzeme uygunluk bilgisi 
+ 
+ 
+ 
+ 
+ 
+
+=== SAYFA 19 ===
+10 
+ 
+2. Mevcut Durum 1.Seviye Veri Akış Diyagram 
+ 
+ 
+1) organizasyon talebi, müşteri kimlik ve iletişim bilgileri 
+2) TC, ad-soyad, telefon, adres, organizasyon talep bilgisi 
+3) kayıtlı müşteri bilgileri, organizasyon türü, organizasyon tarihi 
+4) müşteri bilgileri, talep içeriği 
+5) uygunluk bilgisi, hizmet seçenekleri, fiyat bilgisi 
+6) gerekli malzeme durumu, stok uygunluğu 
+7) malzeme/hizmet talebi, organizasyon tarihi, organizasyon detayları 
+8) gerekli malzeme listesi 
+9) seçilen içerik, organizasyon planı, hizmet kapsamı 
+10) program akışı, görev planı, organizasyon takvimi 
+11) seçilen tedarikçi ve hizmet bilgileri 
+12) müşteri kimlik ve iletişim bilgileri 
+13) hazırlanan sözleşme, hizmet kapsamı, toplam tutar, kapora, kalan ödeme 
+14) sözleşme bilgisi, organizasyon içeriği 
+15) ödeme planı, toplam tutar, kapora bilgisi 
+16) ödeme bilgisi, kapora, kalan ödeme 
+17) fatura onayı, ödeme kayıt durumu 
+18) ödeme ve faturalama bilgileri 
+19) kapora kaydı, ödeme tarihi, kalan ödeme bilgisi, fatura kaydı 
+20) fatura, ödeme dekontu 
+21) ödeme durumu, ödeme tamamlanma bilgisi 
+22) hizmet teslim durumu 
+23) malzeme çıkış ve kullanım bilgisi 
+24) görev tamamlama bilgileri, gecikme bilgileri, süreç durumu 
+25) organizasyon durum bilgisi 
+26) tamamlanan organizasyon bilgisi 
+
+=== SAYFA 20 ===
+11 
+ 
+3.Mevcut Durum 2.Seviye Veri Akış Diyagramları 
+ 
+ 
+ 
+ 
+ 
+ 
+(1) İlk başvuru, organizasyon talebi 
+(2) Ön müşteri bilgisi 
+(3) TC, ad soyad, telefon, adres 
+(4) Kayıtlı müşteri bilgileri 
+(5) Organizasyon türü, tarih, istekler 
+(6) Müşteri ve talep bilgileri 
+(7) Kayıt özeti 
+(8) Kayıt onayı 
+(9) Onaylı müşteri talebi 
+ 
+ 
+
+=== SAYFA 21 ===
+12 
+ 
+ 
+ 
+ 
+ 
+(1) Müşteri bilgileri, talep bilgileri 
+(2) Analiz edilmiş talep 
+(3) İstenen hizmet içeriği 
+(4) Uygunluk, fiyat, hizmet detayları 
+(5) Gerekli malzeme listesi 
+(6) Stok durumu 
+(7) Uygun tedarikçi bilgileri 
+(8) Uygun malzeme bilgileri 
+(9) Seçilen organizasyon içeriği 
+(10) 
+Organizasyon program akışı 
+(11) 
+Tedarikçi ve hizmet planı 
+ 
+
+=== SAYFA 22 ===
+13 
+ 
+ 
+ 
+ 
+1)Organizasyon planı 
+2)Müşteri bilgileri  
+3)Net hizmet kapsamı 
+4)Hizmet bedelleri 
+5)Toplam bedel 
+6)Kapora, kalan ödeme, ödeme tarihi 
+7)Sözleşme taslağı 
+8)Onaylı sözleşme 
+9)Sözleşme kaydı 
+10)Ödeme planı ve sözleşme bilgileri 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== SAYFA 23 ===
+14 
+ 
+ 
+ 
+ 
+ 
+ 
+(1) Kapora ödeme bilgisi 
+(2) Ödeme planı 
+(3) Kapora kaydı 
+(4) İlk ödeme durumu 
+(5) Kalan ödeme bilgisi 
+(6) Ödeme tamamlanma bilgisi 
+(7) Fatura bilgileri 
+(8) Fatura onayı 
+(9) Muhasebe kayıtları  
+(10) 
+ Ödeme tamam/eksik bilgisi 
+(11) 
+Fatura ve ödeme bilgisi 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== SAYFA 24 ===
+15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1)Organizasyon programı 
+2)Tedarikçi görev listesi 
+3)Teslim/hazırlık durumu  
+4)Malzeme ihtiyaç listesi 
+5)Malzeme çıkış bilgisi 
+6)Hizmet hazır bilgisi 
+7)Malzeme hazır bilgisi 
+8)Ödeme durumu 
+9)Organizasyon durum bilgisi 
+10)Tamamlanan organizasyon bilgisi 
+11)Takip kayıtları,aksaklıklar,tamamlanma durumu 
+12)Tamamlanan organizasyon bildirimi 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== SAYFA 25 ===
+16 
+ 
+4.Geliştirilmiş Durum  
+ 
+La Vita Bella Event ve Umut Aybar Organizasyon, hata kabul etmeyen düğün ve davet 
+sektöründe, envanterlerini dijital havuzda yönetmektedir. Mevcut manuel sistemdeki eşya 
+unutma ve iletişim kopukluğu sorunlarını gidermek için geliştirilen bu sistem; anlık envanter 
+takibi, mobil onaylı lojistik gibi dijital sistemleri içerir.  
+Geliştirilmiş durumda organizasyon süreçlerinin daha düzenli ve takip edilebilir hale 
+gelmesi hedeflenmiştir. Bu amaçla mevcutta yaşanan sıkıntıları ortadan kaldırmak için tüm 
+süreçler tek bir sistem altında toplanmıştır. Müşteri bilgileri, organizasyon detayları, 
+sözleşmeler, ödeme işlemleri ve envanter bilgileri artık farklı yerlerde tutulmak yerine aynı 
+sistem içinde yer almaktadır. Bu durum hem bilgiye ulaşmayı kolaylaştırır hem de karışıklığı 
+azaltır. Yeni sistemde müşteri ile ilgili bilgiler doğrudan sisteme girilir ve kayıt altına alınır. 
+Bu bilgiler daha sonra organizasyon planlama sürecinde tekrar girilmeden kullanılır. 
+Böylece hem zaman kaybı azalır hem de yanlış veri girme ihtimali düşer. 
+Organizasyon planlama aşamasında müşteri talepleri daha düzenli şekilde ele alınır. 
+Tedarikçilerle olan işlemler sistem üzerinden yürütüldüğü için hangi hizmetin kim 
+tarafından sağlanacağı daha net hale gelir. Aynı şekilde depo ile bağlantı kurularak gerekli 
+malzemelerin durumu kontrol edilir. Bu da eksik ya da yanlış ürün gönderilmesi gibi 
+sorunların önüne geçer. Sözleşme ve ödeme işlemleri de sistem içinde takip edilir. Yapılan 
+sözleşmeler sistemde saklanır ve ödeme planları buna göre oluşturulur. Muhasebe ile 
+bağlantılı çalışıldığı için fatura ve ödeme süreçleri daha düzenli ilerler. Bu sistemde en 
+önemli yeniliklerden biri işlerin takip edilebilir olmasıdır. Yapılacak görevler sistem 
+üzerinden görülür ve kimin hangi işi yapacağı açık şekilde belirlenir. Bu sayede sorumluluk 
+karışıklığı azalır ve işler daha planlı ilerler. Ayrıca süreç takip edildiği için oluşabilecek 
+sorunlar daha erken fark edilir. 
+Sistemin getirdiği çözümler ve faydaları 
+• Dijital onay mekanizması sayesinde mekanda veya depoda eşya unutulması imkansız 
+hale gelir. 
+• La Vita Bella ve Umut Aybar ekipleri "Hangi eşya kimde?" sorusunu sormadan ortak 
+veriyi görür. 
+• Unutulan bir parça için gece yarısı tekrar mekana araç gönderme maliyeti (yakıt ve 
+personel) ortadan kalkar. 
+ 
+Genel olarak bakıldığında, geliştirilen sistem ile birlikte işlerin daha düzenli ilerlemesi, 
+hataların azalması ve süreçlerin daha kontrollü yürütülmesi amaçlanır. Bu yapı sayesinde 
+organizasyonların daha sorunsuz şekilde gerçekleşmesi beklenmektedir. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== SAYFA 26 ===
+17 
+ 
+ 
+5.Geliştirilmiş Durum Kaba İlişki Diyagramı 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1) organizasyon talebi, müşteri bilgileri, ödeme bilgileri 
+2 ) uygun organizasyon planı, sözleşme, ödeme planı, fatura, bilgilendirme onay mesajları 
+3) hizmet talebi, organizasyon içeriği, tarih zaman bilgisi, görev bilgisi 
+4) uygunluk bilgisi, fiyat bilgisi, hizmet durumu, teslim bilgisi 
+5) otomatik ödeme kayıtları, fatura bilgileri, tahsilat verileri 
+6) ödeme onayı, finansal durum bilgisi, fatura onayı 
+7) malzeme talebi, rezervasyon bilgisi, kullanım planı 
+8) stok bilgisi, kullanılabilir malzeme bilgisi, eksik malzeme bilgisi 
+9) performans raporları, organizasyon durumu, gelir gider bilgileri, süreç analizleri 
+10) kontrol kararları, planlama onayı, performans değerlendirme talepleri 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== SAYFA 27 ===
+18 
+ 
+6.Geliştirilmiş Durum 1. Seviye Veri Akış Diyagramı 
+ 
+ 
+ 
+ 
+1) müşteri bilgileri, organizasyon talebi 
+2) kayıtlı müşteri bilgileri 
+3) müşteri bilgileri, organizasyon talebi 
+4) hizmet bilgisi, fiyat, uygunluk 
+5) organizasyon planı, hizmet detayları 
+6) organizasyon planı, seçilen hizmetler 
+7) sözleşme bilgisi, ödeme planı 
+8) ödeme planı, toplam tutar 
+9) fatura onayı, ödeme durumu 
+10) fatura bilgisi, ödeme kayıtları 
+11) organizasyon planı, görev listesi 
+12) ödeme durumu, ödeme tamam bilgisi 
+13) hizmet teslim durumu 
+14) malzeme kullanım bilgisi 
+15) süreç durumu, tamamlanma bilgisi 
+16) performans verisi, süreç raporları 
+17) analiz, rapor 
+ 
+ 
+ 
+ 
+
+=== SAYFA 28 ===
+19 
+ 
+7.Geliştirilmiş Durum 2. Seviye Veri Akış Diyagramları 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(1) organizasyon talebi, ön bilgi 
+(2) ön talep bilgisi 
+(3) TCKN, ad-soyad,  telefon, adres, mail 
+(4) müşteri kimlik ve iletişim bilgileri 
+(5) kayıtlı müşteri bilgileri 
+(6) organizasyon türü, tarih, özel istekler 
+(7) detaylı organizasyon talebi 
+(8) güncellenmiş müşteri ve talep bilgileri 
+(9) kayıt onayı,  talep onayı 
+(10) onaylı müşteri talebi 
+(11) müşteri bilgileri, organizasyon talebi, planlama için gerekli veriler 
+ 
+ 
+ 
+ 
+ 
+
+=== SAYFA 29 ===
+20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(1) müşteri bilgileri, organizasyon talebi 
+(2) analiz edilmiş talep 
+(3) hizmet talebi,   organizasyon detayları 
+(4) fiyat, uygunluk bilgisi 
+(5) malzeme talebi 
+(6) stok bilgisi 
+(7)  uygun hizmet ve malzeme 
+(8) uygun hizmet ve malzeme 
+(9) organizasyon planı 
+(10) görev planı, organizasyon programı 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== SAYFA 30 ===
+21 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(1) organizasyon planı 
+(2) hizmet detayları 
+(3) fiyat bilgisi 
+(4) toplam tutar 
+(5) ödeme planı 
+(6) sözleşme bilgisi 
+(7) ödeme planı 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== SAYFA 31 ===
+22 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(1) ödeme planı 
+(2) kapora ödeme bilgisi  
+(3)  ödeme kaydı  
+(4) ödeme durumu  
+(5) kalan ödeme bilgisi 
+(6) ödeme tamam bilgisi 
+(7)  fatura bilgisi 
+(8) fatura onayı 
+(9) finans kayıtları 
+(10) ödeme tamamlandı bilgisi 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== SAYFA 32 ===
+23 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(1) organizasyon planı  
+(2) görev listesi  
+(3) hizmet durumu  
+(4)  malzeme listesi  
+(5)  stok / kullanım bilgisi  
+(6) süreç durumu  
+(7) süreç durumu 
+(8) ödeme durumu 
+(9) tamamlanma bilgisi 
+(10) takip kayıtları 
+(11) organizasyon durumu 
+(12) performans verisi 
+ 
+ 
+ 
+ 
+
+=== SAYFA 33 ===
+1 
+ 
+EKLER 
+EK A: 1. ARA RAPOR – SORULARI 
+ 
+1. Problem nedir? 
+Organizasyon şirketlerinde müşteri bilgileri, sözleşmeler, organizasyon planları ve finansal 
+veriler farklı platformlarda (Excel, fiziksel dosyalar, muhasebe yazılımları vb.) 
+tutulmaktadır. Bu durum süreçlerin dağınık ve kontrolsüz ilerlemesine neden olmaktadır. 
+ 
+2. Problem nasıl ortaya çıkmıştır, sebepleri nelerdir? 
+• 
+Sistemlerin birbirinden bağımsız olması  
+• 
+Merkezi bir yazılım altyapısının bulunmaması  
+• 
+İş takip mekanizmasının olmaması  
+• 
+Süreçlerin manuel yürütülmesi  
+ 
+3. Bu problem neden önemlidir? 
+Bu problem; zaman kaybına, veri karışıklığına, operasyonel hatalara, müşteri 
+memnuniyetsizliğine neden olduğu için işletmenin verimliliğini etkilemektedir. 
+ 
+4. Gerçekten incelenmesi gereken bir problem midir? 
+Evet. Çünkü organizasyon sektörü yoğun veri ve koordinasyon gerektiren bir alandır ve 
+mevcut sistem bu ihtiyacı karşılayamamaktadır. 
+ 
+5. Bu problemin çözümü para kazandıracak mıdır? Mali getirisi var mıdır? 
+Evet. 
+• 
+İş gücü kaybı azalır. 
+• 
+Daha fazla organizasyon yönetilebilir.  
+• 
+Hata maliyetleri düşer. 
+• 
+Karlılık artar. 
+ 
+6. Diğer mevcut problemler ile karşılaştırıldığında, bu problemi incelemenin 
+mantıklı gerekçeleri var mıdır? 
+• 
+Gerçek hayata uygun  
+
+=== SAYFA 34 ===
+2 
+ 
+• 
+Gözlemlenebilir  
+• 
+İyileştirmeye açık  
+• 
+Sistem analizi uygulamaları için uygun  
+ 
+7. Sistem analizi yapacak ekip kimlerden oluşacaktır? 
+• 
+Proje sorumlusu (Endüstri Mühendisi öğrencisi)  
+• 
+Sistem analisti  
+• 
+Yazılım geliştirici (varsayımsal)  
+• 
+İşletme temsilcisi  
+ 
+8. Projenin başlangıç ve bitiş tarihleri ne olacaktır? 
+• Başlangıç: 3 Mart 2026  
+• Bitiş: 27 Nisan 2026  
+ 
+9. Ayrıntılı faaliyetler belirlenmiş midir? 
+Evet; problem tanımı, veri toplama, mevcut sistem analizi, modelleme (DFD), geliştirilmiş 
+sistem tasarımı, raporlama  
+ 
+10. İncelenen sistem uygun alt sistemlere nasıl bölünecektir? 
+• 
+Müşteri yönetimi  
+• 
+Organizasyon planlama  
+• 
+Sözleşme yönetimi  
+• 
+Muhasebe sistemi  
+• 
+İş takip sistemi  
+• 
+Raporlama  
+ 
+11. Alt sistemler arası etkileşimler nelerdir? 
+• 
+Müşteri verileri-planlama  
+• 
+Planlama-sözleşme  
+• 
+Sözleşme-muhasebe  
+• 
+Tüm süreçler-iş takip  
+
+=== SAYFA 35 ===
+3 
+ 
+ 
+12. Sistemin üst sistemle ilişkisi nedir? 
+Sistem, hizmet sektörü ve organizasyon yönetimi ekosisteminin bir alt sistemidir. 
+ 
+13. Sistemin ilişkili olduğu diğer sistemlerin hedefleriyle çelişen hedefleri var 
+mıdır? Varsa izlenecek yol nedir? 
+Kısmen vardır: 
+• 
+Müşteri düşük fiyat ister  
+• 
+İşletme yüksek kâr ister  
+ Çözüm: Dengeli fiyatlandırma ve verimlilik artışı 
+ 
+14. Alt optimizasyon (sistemin kendi içinde iyi tasarlanmış olmasına rağmen üst 
+sistemin hedeflerine hizmet etmemesi) tehlikesi var mı? 
+Evet. Örneğin sadece muhasebe sürecini iyileştirmek, tüm sistemi iyileştirmez. Prosesler 
+arası iletişim eksikliği alt optimizasyon riski oluşturabilir. Ve bu durum müşteri kaybı, 
+karlılık azalışı gibi durumlara yol açabilir. Bu nedenle bütüncül yaklaşım benimsenmiştir. 
+ 
+15. Sistemin hedefleri önem sırasına göre bir liste ile düzenlendi mi? 
+Evet: 
+• Entegrasyon  
+• İş takibi  
+• Verimlilik  
+ 
+16. Kısıtlar listelendi mi? Kısıtlar mantıklı mı? 
+Evet: 
+• 
+Zaman  
+• 
+İnsan kaynağı  
+• 
+Kapasite  
+• 
+Bütçe  
+ 
+17. Hedefler basit ve açık mı? 
+Evet, sade ve ölçülebilir şekilde tanımlanmıştır. 
+
+=== SAYFA 36 ===
+4 
+ 
+ 
+18. İlgili tüm veriler toplanıp iyi şekilde düzenlendi mi? 
+Evet, gerçek sistem gözlemleri ve kullanıcı bilgileri kullanılmıştır. 
+ 
+19. Gerekli modelleme ve tahminlemeler yapıldı mı?  
+Gerekli modellemeler yapılmıştır: veri akış diyagramları (DFD), mevcut ve geliştirilmiş 
+sistem 
+ 
+20. Eldeki amaca en uygun model hangisidir? 
+Eldeki amaç manuel bir sistemi yazılım sistemi haline getirmek olduğu için en uygun 
+model veri akış modelidir. 
+21. Model kurma, en fazla gereksinim duyulan nokta da yoğunlaştırılmış mı? 
+Model kurmada en fazla gereksinim duyulan nokta prosesler arası planlama takibidir ve 
+buraya yoğunlaşılmıştır. 
+ 
+22. Model üzerinde hangi optimizasyon yöntem/yöntemleri kullanılmalıdır? 
+Bu çalışmada optimizasyon yaklaşımı, müşteri, tedarikçi ve muhasebe sistemi arasındaki 
+süreçlerin dengeli ve verimli şekilde yönetilmesine odaklanmaktadır. Sistem içerisinde 
+klasik matematiksel optimizasyon yöntemlerinden ziyade, süreç iyileştirme ve entegrasyon 
+temelli bir optimizasyon yaklaşımı benimsenmiştir. 
+ 
+23. Ekonomik ölçütler dikkate alındı mı? 
+Evet: maliyet, zaman, iş gücü. 
+ 
+24. Tasarımın varsayımlara duyarlılığı denetlendi mi? 
+Evet, sistem tasarımının varsayımlara duyarlılığı değerlendirilmiştir. Müşteri talebindeki 
+değişkenlik, organizasyon çeşitliliği ve olası olağanüstü durumlar göz önünde 
+bulundurularak sistemin esnek bir yapıda olması sağlanmıştır. 
+Bu sayede sistemin yalnızca belirli varsayımlar altında değil, farklı durumlarda  da 
+sürdürülebilir şekilde çalışabileceği öngörülmüştür. 
+ 
+25. Denetim sistemi kuruldu mu? 
+Evet: iş takip sistemi, raporlama sistemi 
+ 
+
+=== SAYFA 37 ===
+5 
+ 
+26. Denetim hangi noktalara uygulanmalıdır? 
+Organizasyon süreci, ödeme süreci, iş planlama sürecinde uygulanmalıdır. 
+ 
+27. Denetim için hangi araçlara ihtiyaç var? Belirsizliğin sistem güvenilirliği 
+üzerindeki etkisi göz önüne alındı mı? 
+Denetim için veri tabanı yönetim sistemlerine gerek vardır. Evet: talep değişkenliği, 
+piyasa koşulları göz önüne alınmıştır. 
+ 
+28. Geliştirme sistemi kuruldu mu? Yeniliklere açık mı? 
+Evet, modüler yapıdadır. Ve yeniliklere açıktır. 
+ 
+29.  Sistem kurma projesi iyi planlanıp, terminler (belirlenen zamanlar) ve 
+planlar açık olarak belirlendi mi? 
+Evet, proje aşamaları belirlendi. 
+30.  Başlangıç için gerekli planlar yapıldı mı? 
+Evet, aşamalar ve süreçler belirlenmiştir. Durum analizi yapılmıştır. 
+ 
+ 
+ 
+
+=== SAYFA 38 ===
+6 
+ 
+ 
+
